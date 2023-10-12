@@ -3,7 +3,6 @@
 ### Screenshot
 <table>
   <tr>
-    
      <td><img src="https://github.com/AhmedGamalRamadan/Animation/assets/144063315/717c18a1-1d2f-421a-ae6e-249e1931be1d" width="200"></td>
     <td><img src="https://github.com/AhmedGamalRamadan/Animation/assets/144063315/80b61824-8528-417c-8652-efe145a8ed71" width="200"></td>
   </tr>
